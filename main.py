@@ -160,5 +160,5 @@ def main():#Função Principal onde se faz a escolha do que o Usuario necessita
     elif(x == 2):
         init_cript()#Criptografar
     elif(x == 3):
-        init_descript()#DEscriptografar
+        init_descript()#Descriptografar
 main()
